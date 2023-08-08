@@ -1,0 +1,25 @@
+html {
+  background-color: rgb(71, 71, 71);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#head{
+    color: antiquewhite;
+    font-weight: bolder;
+}
+.projects {
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+#movie-ranking{
+    color: green;
+}
+
+#birthday-invite{
+    color: purple;
+}
