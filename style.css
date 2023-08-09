@@ -3,23 +3,28 @@ html {
   font-family: 'Courier New', Courier, monospace;
 }
 
-#head{
-    color: antiquewhite;
-    font-weight: bolder;
+#head {
+  color: antiquewhite;
+  font-weight: bolder;
+
 }
+
 .projects {
   background-color: antiquewhite;
   text-align: center;
+  width: 110%;
+  margin: -1%
 }
 
-footer{
-    text-align: center;
+footer {
+  text-align: center;
+  margin: 5%;
 }
 
-#movie-ranking{
-    color: green;
+#movie-ranking {
+  color: green;
 }
 
-#birthday-invite{
-    color: purple;
+#birthday-invite {
+  color: purple;
 }
