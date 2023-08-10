@@ -1,6 +1,7 @@
 html {
   background-color: rgb(71, 71, 71);
   font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
 }
 
 #head {
